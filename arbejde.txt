@@ -5,8 +5,5 @@ aaaaaaaaaaaaaaaa
 cccccccccccccccc
 ddddddddddddd
 eeeeeeeeeee
-<<<<<<< HEAD
 fffffffffff
-=======
 ffffffffff
->>>>>>> 9d5e01c6e0d3aa4eb5548893f60ae51d6c6ac325
