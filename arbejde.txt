@@ -4,3 +4,4 @@ world rettelse
 rettelse i world som der skal laves pull request på
 commit 1
 commit 2
+commit 3
