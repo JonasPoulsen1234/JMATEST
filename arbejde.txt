@@ -3,3 +3,4 @@ her er en mega fed tilføjelse som er fed
 world rettelse
 rettelse i world som der skal laves pull request på
 commit 1
+commit 2
